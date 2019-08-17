@@ -1,0 +1,4 @@
+install npm (npm i)
+Open code run node index.js
+Fetch data to application from https://randomuser.me. Open Postman and Post Call ('localhost:8081/randomuser')
+Then genrate report data Get call ('localhost:8081/randomuser')
